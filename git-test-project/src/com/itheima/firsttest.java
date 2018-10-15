@@ -9,6 +9,10 @@ public class firsttest {
         System.out.println("hello,git");
         System.out.println("hello,git");
         System.out.println("hello,git");
+        System.out.println("safsfsafd");
+        System.out.println("324123424");
+
+
     }
 
 
